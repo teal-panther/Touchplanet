@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 210de469d5d308f40a1a6d4e59a93d43
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SkinButtons: {fileID: 11400000, guid: f5f69c5decaba504983aed65c53993a4, type: 2}
+  - SkinWindows: {fileID: 11400000, guid: f5502fcb19048454dbd3d0211441f894, type: 2}
+  - earth: {fileID: 2800000, guid: 3642ec7be92d90043bda1b99f3a75a17, type: 3}
+  - close: {fileID: 2800000, guid: cf074680d9998714180e93ff92cb5718, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
